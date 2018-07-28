@@ -305,3 +305,6 @@ if test -f ~/.bin/tmuxinator.zsh
 then
     source ~/.bin/tmuxinator.zsh
 fi;
+
+# GTAGS
+export GTAGSLABEL=pygments

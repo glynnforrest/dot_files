@@ -5,6 +5,7 @@ prepare:
 base: prepare
 	stow -v -t ~ bin
 	stow -v -t ~ git
+	stow -v -t ~ gtags
 	stow -v -t ~ pgcli
 	stow -v -t ~ tmux
 	stow -v -t ~ vim
